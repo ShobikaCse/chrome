@@ -1,5 +1,6 @@
 # chrome
 steps to download chrome
+#IN PC
 // In WINDOWS
 In Google, type google chrome download and double click download now.
 Allow the chrome to make changes.
@@ -12,3 +13,8 @@ open chrome,open finder.
 Enter google chrome in google click on download,Click open to open package,Click install package.
 //In CHROMEBOOK
 In chromebook,chrome is pre-installed.
+#IN ANDROID
+Click google chrome, click ok,click install.
+#IN IPADS AND IPHONES
+Click Google chrome,click get,click install,Enter Apple id password click ok.
+Some steps to overcome issues are read.
